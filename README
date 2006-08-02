@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1626
+
+This highlights Liquid Template Files ( http://home.leetsoft.com/liquid )
+It recognizes tags, outputs and comments as well as highlighting 
+Ruby instance variables.
+
+It sets the file type to html so that it highlights html as well. If this shouldn't be automatic for some reason, let me know how it should be and I'll change it.
+
+Enjoy ;)
